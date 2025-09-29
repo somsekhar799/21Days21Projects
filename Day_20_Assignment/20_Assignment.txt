@@ -1,0 +1,10 @@
+1. https://www.headspin.io/blog/what-is-browser-automation`
+2. https://www.browserstack.com/guide/what-is-browser-automation`
+3. https://stackoverflow.com/questions/27532284/what-is-browser-automation`
+4. https://en.wikipedia.org/wiki/Browser_automation`
+5. https://www.testim.io/blog/browser-automation-a-guide/`
+6. https://www.mabl.com/blog/browser-automation`
+7. https://www.selenium.dev/documentation/webdriver/getting_started/what_is_webdriver/`
+8. https://www.blazemeter.com/blog/what-is-browser-automation-and-how-does-it-work`
+9. https://oxylabs.io/blog/what-is-browser-automation`
+10. https://playwright.dev/docs/browser-automation`
